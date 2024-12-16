@@ -28,6 +28,7 @@ fun main() {
         menuChoice = readln().toInt()
     }
     println("Closing To DO List")
+    println("Bye")
 
 }
 
