@@ -1,3 +1,3 @@
-Nama: Sidqi Athallah AR /n
-NIM: 103022300108 /n
+Nama: Sidqi Athallah AR 
+NIM: 103022300108 
 Jurusan: Rekayasa Perangkat Lunak
